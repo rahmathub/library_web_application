@@ -7,22 +7,14 @@
     <title>Rumus bangun datar</title>
 </head>
 <body>
- 
-                $D2= 8 ;
-                $r = 1/2;
-                $LuasD= $r * $D1 * $D2;
-                // pengerjaan
-                echo "Luas Belah ketupat =  $r x $D1 x $D2 = $LuasD cm<sub>2</sub>";
-                ?>
-            </li>
-        </ul>
-    </div>
-    <hr>
-    <br>
-    <?php
-    // lanjut ke php
-
-    ?>
+<?php 
+// tes tes dulu
+  ?>
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam, soluta aspernatur fuga alias qui reprehenderit et dolore sequi
+ ipsum maiores voluptas necessitatibus ducimus odio eligendi. Atque animi nobis beatae, ad veniam odio numquam neque ducimus facilis blanditiis laboriosam inventore soluta temporibus amet molestiae quidem tempora perferendis officiis culpa distinctio vel accusamus possimus! Laudantium, dolorem ipsam, eaque quod reprehenderit minima incidunt vel exercitationem quaerat velit cupiditate ratione quibusdam cumque id doloribus asperiores reiciendis vitae amet, officia quia iusto! Omnis quo fugiat quos ipsam, soluta nisi suscipit 
+dignissimos corporis excepturi maiores libero possimus deserunt vero maxime iusto dolorem optio blanditiis doloremque explicabo!
+<?php
+?>
 
     
 </body>
