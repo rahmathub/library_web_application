@@ -261,60 +261,60 @@
 
           {{-- Catalog --}}
           <li class="nav-item">
-            <a href="{{ url('catalogs') }}" class="nav-link {{ request()->is('catalog') ? 'active' : '' }}">
+            <a href="{{ url('catalogs') }}" class="nav-link {{ request()->is('catalogs') ? 'active' : '' }}">
               <i class="nav-icon fas fa-edit"></i>
               <p>
-                Catalog
+                Catalogs
               </p>
             </a>
           </li>
 
           {{-- Publisher --}}
           <li class="nav-item">
-            <a href="{{ url('publishers') }}" class="nav-link {{ request()->is('publisher') ? 'active' : '' }}">
+            <a href="{{ url('publishers') }}" class="nav-link {{ request()->is('publishers') ? 'active' : '' }}">
               <i class="nav-icon fas fa-clipboard"></i>
               <p>
-                Publisher
+                Publishers
               </p>
             </a>
           </li>
 
           {{-- Author --}}
           <li class="nav-item">
-            <a href="{{ url('authors') }}" class="nav-link {{ request()->is('author') ? 'active' : '' }}">
+            <a href="{{ url('authors') }}" class="nav-link {{ request()->is('authors') ? 'active' : '' }}">
               <i class="nav-icon fas fa-copy"></i>
               <p>
-                Author
+                Authors
               </p>
             </a>
           </li>
 
           {{-- Book --}}
           <li class="nav-item">
-            <a href="{{ url('books') }}" class="nav-link {{ request()->is('book') ? 'active' : '' }}">
+            <a href="{{ url('books') }}" class="nav-link {{ request()->is('books') ? 'active' : '' }}">
               <i class="nav-icon fas fa-book"></i>
               <p>
-                Book
+                Books
               </p>
             </a>
           </li>
 
           {{-- Member --}}
           <li class="nav-item">
-            <a href="{{ url('members') }}" class="nav-link {{ request()->is('member') ? 'active' : '' }}">
+            <a href="{{ url('members') }}" class="nav-link {{ request()->is('members') ? 'active' : '' }}">
               <i class="nav-icon fas fa-user"></i>
               <p>
-                Member
+                Members
               </p>
             </a>
           </li>
 
           {{-- Transaction --}}
           <li class="nav-item">
-            <a href="{{ url('transactions') }}" class="nav-link {{ request()->is('member') ? 'active' : '' }}">
+            <a href="{{ url('transactions') }}" class="nav-link {{ request()->is('transactions') ? 'active' : '' }}">
               <i class="nav-icon fas fa-copy"></i>
               <p>
-                Transaction
+                Transactions
               </p>
             </a>
           </li>
